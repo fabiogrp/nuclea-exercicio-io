@@ -1,5 +1,0 @@
-c:\teste\2.txt - 21,02 MB
-c:\teste\3.txt - 15,52 MB
-c:\teste\4.txt - 5,18 MB
-c:\teste\5.txt - 3,77 MB
-c:\teste\1.txt - 0,04 MB
